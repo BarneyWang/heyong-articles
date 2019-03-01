@@ -86,3 +86,8 @@ flatMap()方法首先一个输入的Stream of Streams 铺平成 一个 Stream of
 Java 8 给了我们使用原本在函数是编程里边使用的map()和flatMap()的机会。
 
 我们能可在Streams和Optionals中调用他们。这些方法帮助我们拿到通过调用提供的映射函数的映射过的对象。
+
+
+
+---
+
